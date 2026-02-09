@@ -1,1 +1,3 @@
 """salom"""
+
+print("salom")
